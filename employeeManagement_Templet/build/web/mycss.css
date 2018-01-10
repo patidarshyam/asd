@@ -1,0 +1,22 @@
+#news
+{
+    background-color:#858585;
+    width: 300px;
+    height: 600px;
+    float: left;
+}
+
+#work
+{
+    width: 400px;
+    height: 600px;
+    float: left;
+}
+
+#adv
+{
+    background-color: #39599f;
+    width: 300px;
+    height: 600px;
+    float: left;
+}
